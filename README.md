@@ -1,17 +1,17 @@
-# [GatsbyJS Bootstrap](https://appseed.us/apps/gatsbyjs/gatsby-creative)
+# [GatsbyJS Creative](https://appseed.us/apps/gatsbyjs/gatsby-creative)
 
-Open-source app built with GatsbyJS on top of HTML5Up Bootstrap design. 
+Open-source app built with GatsbyJS on top of HTML5Up Creative design. 
 
 <br />
 
-![GatsbyJS Bootstrap - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-creative-intro.gif?raw=true)
+![GatsbyJS Creative - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-creative-intro.gif?raw=true)
 
 <br />
 
 ## App Links
 
-- [GatsbyJS Bootstrap](https://gatsby-creative.appseed.us) - live demo
-- [Bootstrap](https://html5up.net/aerial) - the design provided by Html5UP 
+- [GatsbyJS Creative](https://gatsby-creative.appseed.us) - live demo
+- [Creative](https://html5up.net/aerial) - the design provided by Html5UP 
 
 <br />
 
@@ -38,4 +38,4 @@ Please access the official [Support](https://appseed.us/support) page provided b
 <br />
 
 ---
-[GatsbyJS Bootstrap](https://appseed.us/apps/gatsbyjs/gatsby-creative) provided by **AppSeed**
+[GatsbyJS Creative](https://appseed.us/apps/gatsbyjs/gatsby-creative) provided by **AppSeed**
