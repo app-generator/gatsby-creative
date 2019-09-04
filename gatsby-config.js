@@ -1,11 +1,13 @@
 module.exports = {
   pathPrefix: `/gatsby-creative`,
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Gatsby Creative - Open-Source starter | AppSeed`,
+    description: `Simple Gatsby starter styled with Bootstrap.`,
     author: `@gatsbyjs`,
+    siteUrl: `https://gatsby-creative.appseed.us`,
   },
   plugins: [
+    'gatsby-plugin-sitemap',
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,

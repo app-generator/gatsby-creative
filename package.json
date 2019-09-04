@@ -7,6 +7,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.10.1",
     "bootstrap": "^4.3.1",
+    "ftp-deploy": "^2.3.3",
     "gatsby": "^2.13.51",
     "gatsby-image": "^2.2.8",
     "gatsby-plugin-manifest": "^2.2.4",
@@ -14,6 +15,7 @@
     "gatsby-plugin-react-helmet": "^3.1.3",
     "gatsby-plugin-sass": "^2.1.4",
     "gatsby-plugin-sharp": "^2.2.9",
+    "gatsby-plugin-sitemap": "^2.2.10",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^2.1.8",
     "gatsby-transformer-sharp": "^2.2.5",
@@ -33,6 +35,9 @@
   ],
   "license": "MIT",
   "scripts": {
+    "deploy": "gatsby clean && gatsby build && node deploy",
+    "deploy_gh": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
+    "start": "gatsby clean && gatsby develop",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
